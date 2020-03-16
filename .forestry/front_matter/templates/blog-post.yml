@@ -5,6 +5,8 @@ fields:
 - type: text
   name: layout
   label: layout
+  description: post
+  hidden: false
 - type: text
   name: title
   label: title
@@ -12,14 +14,8 @@ fields:
   name: date
   label: date
 - type: text
-  name: author
-  label: author
-- type: text
   name: categories
   label: categories
-- type: text
-  name: thumbnail
-  label: thumbnail
 - type: list
   name: tags
   label: tags
