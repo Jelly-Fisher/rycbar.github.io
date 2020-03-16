@@ -5,8 +5,8 @@ fields:
 - type: text
   name: layout
   label: layout
-  description: post
   hidden: false
+  default: post
 - type: text
   name: title
   label: title
