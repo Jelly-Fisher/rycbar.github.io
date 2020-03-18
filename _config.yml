@@ -5,25 +5,18 @@ description: Like the waves out on the blue sea.
 url: https://rycbar.me
 title_description: Like the waves out on the blue sea.
 title_image: https://avatars0.githubusercontent.com/u/56526234?s=460&u=f441e68d2c40e43c20835ca00042bc2f5dca030c&v=4
-google_analytics: "UA-20365477-4"
-disqus_account: cartenoire
-github_repository: 
-addthis_id: ra-513c6fa83da6ec67
+google_analytics: 
+disqus_account: 
+addthis_id: 
 post_limit: 5
 
 # Social usernames/URLs
-twitter_username: 
-github_username:  
+twitter_username: ellegenious
+github_username: Jelly-Fisher
 instagram_username: 
-reddit_username: 
-linkedin_link: 
-google_plus_link: 
-stackoverflow_link: 
-xing_link:
-facebook_link:
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_left: "Made by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
