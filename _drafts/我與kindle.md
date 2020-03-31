@@ -2,7 +2,7 @@
 layout: post
 title: 我與Kindle
 date: 2019-12-19 00:00:00 +0800
-categories: ''
+categories: 物
 tags: []
 
 ---
