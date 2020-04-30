@@ -4,20 +4,20 @@ email:
 description: And remember.
 url: https://rycbar.me
 title_description: And remember.
-title_image: 
-google_analytics: 
-disqus_account: 
+title_image: https://1drv.ms/u/s!AhGuVS9rBvJyq0zbBKHHTfw2kWHw?e=CUZKYY
+google_analytics: UA-165015031-1
+disqus_account: ellecheung@outlook.com
 addthis_id: 
 post_limit: 5
 
 # Social usernames/URLs
-twitter_username: 
+twitter_username: ellegenious
 github_username: 
 instagram_username: 
 
 # Footer
-footer_left: "Made by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_left: "─=≡Σ(((つ•̀ω•́)つ"
+footer_right: "Hello? Goodbye."
 
 # Build settings
 markdown: kramdown
