@@ -1,9 +1,9 @@
 # Site settings
-title: Run You Clever Little Boy
+title: Run You Clever Boy
 email: ellecheung@outlook.com
-description: Like the waves out on the blue sea.
+description: And remember.
 url: https://rycbar.me
-title_description: Like the waves out on the blue sea.
+title_description: And remember.
 title_image: https://avatars0.githubusercontent.com/u/56526234?s=460&u=f441e68d2c40e43c20835ca00042bc2f5dca030c&v=4
 google_analytics: 
 disqus_account: 
@@ -13,7 +13,7 @@ post_limit: 5
 # Social usernames/URLs
 twitter_username: ellegenious
 github_username: Jelly-Fisher
-instagram_username: 
+instagram_username: Memorcheung
 
 # Footer
 footer_left: "Made by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
