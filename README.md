@@ -1,6 +1,6 @@
 ---
 
 ---
-## Run, your clever boy,
+## Run, you clever boy,
 
 And remember.
