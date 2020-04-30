@@ -1,6 +1,6 @@
 ---
 layout: ''
-title: About
+title: About.html
 date: 
 categories: ''
 tags: []
