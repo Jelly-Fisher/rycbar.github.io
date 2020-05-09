@@ -15,6 +15,9 @@ twitter_username: ellegenious
 github_username: 
 instagram_username: 
 
+# Disqus
+disqus_js: https://rycbar.disqus.com/embed.js
+
 # Footer
 footer_left: "─=≡Σ(((つ•̀ω•́)つ"
 footer_right: "Hello? Goodbye."
@@ -26,5 +29,7 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-permalink: pretty
+permalink: '/:year/:month/:title/'
 exclude: [vendor]
+# Plugins
+plugins: [jekyll-sitemap]
