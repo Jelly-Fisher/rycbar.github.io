@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 在讀 | 《藝術的故事》1-3章
+title: 書 | 《藝術的故事》1-3章
 date: 2020-04-27T16:00:00.000+00:00
-categories: 書
+categories: 樂
 tags: []
 
 ---
