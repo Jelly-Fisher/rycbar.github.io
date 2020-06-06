@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 死的遐想
-date: 2020-05-21 00:00:00 +0800
+date: 2020-05-20 00:01:00 +0800
 categories: 事
 tags: []
 
