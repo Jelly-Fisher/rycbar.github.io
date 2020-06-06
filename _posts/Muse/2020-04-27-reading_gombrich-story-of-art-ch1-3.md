@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 書 | 《藝術的故事》1-3章
-date: 2020-04-27 00:00:00 +0800
+date: 2020-04-27 00:01:00 +0800
 categories: 樂
 tags: []
 
