@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 歿
-date: 2020-05-08 00:00:00 +0800
+date: 2020-05-08 00:01:00 +0800
 categories: 人
 tags: []
 
