@@ -16,10 +16,6 @@ sections:
   label: Data
   create: documents
   match: "**/*"
-- type: document
-  path: search.json
-  label: Search
-  match: "**/*"
 - type: directory
   path: ''
   label: Root pages
