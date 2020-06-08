@@ -12,9 +12,9 @@ sections:
   create: all
 - type: directory
   path: ''
-  label: Directory
+  label: Root pages
   create: all
-  match: "**/*"
+  match: "*.{html,md}"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
