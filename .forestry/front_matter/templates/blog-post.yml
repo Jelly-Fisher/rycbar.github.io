@@ -27,3 +27,5 @@ fields:
   label: layout
   hidden: true
   default: post
+pages:
+- _posts/People/this-post-should-be-created-in-people-folder.md
