@@ -12,6 +12,11 @@ sections:
   templates:
   - blog-post
 - type: directory
+  path: _data
+  label: Data
+  create: documents
+  match: "**/*"
+- type: directory
   path: ''
   label: Root pages
   create: all
