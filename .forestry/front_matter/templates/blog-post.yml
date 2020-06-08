@@ -26,7 +26,6 @@ fields:
   name: tags
   label: tags
 pages:
-- _posts/1111.md
 - _posts/Fictions/2020-01-18-a-glance-at-unfinished-dream.md
 - _posts/Fictions/2020-02-28-thrillers-of-psycho.md
 - _posts/Matters/2019-11-20-a-disgusting-man.md
