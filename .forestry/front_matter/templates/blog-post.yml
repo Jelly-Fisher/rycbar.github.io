@@ -3,11 +3,6 @@ label: Blog post
 hide_body: false
 fields:
 - type: text
-  name: layout
-  label: layout
-  hidden: false
-  default: post
-- type: text
   name: title
   label: title
   config:
@@ -25,3 +20,8 @@ fields:
 - type: list
   name: tags
   label: tags
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: post
