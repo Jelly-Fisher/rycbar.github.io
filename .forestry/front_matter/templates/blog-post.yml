@@ -13,6 +13,7 @@ fields:
   label: date
   config:
     required: false
+  default: now
 - type: text
   name: categories
   label: categories
