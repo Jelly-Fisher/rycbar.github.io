@@ -19,7 +19,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-permalink: "/:path/:year/:month/:title/"
+permalink: "/:folder/:year/:month/:title/"
 exclude:
 - vendor
 plugins:
