@@ -26,6 +26,7 @@ fields:
   name: tags
   label: tags
 pages:
+- _posts/2020-06-08-test.md
 - _posts/Fictions/2020-01-18-a-glance-at-unfinished-dream.md
 - _posts/Fictions/2020-02-28-thrillers-of-psycho.md
 - _posts/Matters/2019-11-20-a-disgusting-man.md
@@ -39,4 +40,3 @@ pages:
 - _posts/Others/2020-02-05-life-with-kitty-ricardo-vol1.md
 - _posts/People/2019-12-19-a-story-of-solitude.md
 - _posts/People/2020-05-08-elder-uncle-passed-away.md
-- _posts/test.md
