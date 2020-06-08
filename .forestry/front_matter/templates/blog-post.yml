@@ -7,21 +7,33 @@ fields:
   label: layout
   hidden: false
   default: post
+- name: path
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Path
 - type: text
   name: title
   label: title
   config:
-    required: true
+    required: false
 - type: datetime
   name: date
   label: date
   config:
-    required: true
+    required: false
 - type: text
   name: categories
   label: categories
   config:
-    required: true
+    required: false
 - type: list
   name: tags
   label: tags
