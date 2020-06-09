@@ -28,5 +28,5 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/Matters/社交翻车事故合辑-一.md
+- _posts/Matters/my-social-failures-vol1.md
 - _posts/People/this-post-should-be-created-in-people-folder.md
